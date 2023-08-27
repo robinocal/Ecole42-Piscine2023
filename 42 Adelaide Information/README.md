@@ -1,5 +1,5 @@
-# 42-Adelaide
-I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021 📆 </br>
+# 42-Paris
+I was part of the 2st ever piscine at Ecole 42 Paris between July - August of 2023 📆 </br>
 
 What the piscine teaches you is the following:
 
