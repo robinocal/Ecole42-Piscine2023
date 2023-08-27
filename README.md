@@ -4,7 +4,7 @@
 
 </div>
 
-## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
+## [C00]([https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00](https://github.com/hasanocal42/Ecole42-Piscine2023/tree/main/C00%20-%20C07%20Piscine%20Projects/C00)) - Introduction to C
 
 - [ex00: ft_putchar](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex00%20-%20ft_putchar/ft_putchar.c) - Print a Character
 - [ex01: ft_print_alphabet](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex01%20-%20ft_print_alphabet/ft_print_alphabet.c) - Print the Alphabet
