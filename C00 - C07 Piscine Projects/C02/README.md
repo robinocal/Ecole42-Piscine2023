@@ -1,4 +1,4 @@
-<img width="1366" alt="Screen Shot 2021-10-21 at 4 25 59 PM" src="https://user-images.githubusercontent.com/58959408/138220015-c6fefcf6-ca4b-4b0a-9090-08086da6ea18.png">
+![Screenshot from 2023-08-24 17-14-37](https://github.com/hasanocal42/Ecole42-Piscine2023/assets/140838926/54b4f3ad-87e0-4b3f-b738-916356c618dc)
 
 # C02
 
@@ -17,12 +17,14 @@ An Introduction to Using Strings and Arrays to Handle Longer Pieces of Data.
 - Sources and Destinations
 
 ## Projects
-- EX00 - Copy a String
-- EX01 - String Copy With an Unsigned Int
-- EX02 - Conditional Statements using Arrays
-- EX03 - Check a String is Numbers
-- EX04 - Check a String is Lowercase
-- EX05 - Check a String is Uppercase
-- EX06 - Check a String is Printable
-- EX07 - Make a String Uppercase
-- EX08 - Make a String Lowercase
+- EX00 -
+- EX01 -
+- EX02 -
+- EX03 -
+- EX04 -
+- EX05 -
+- EX06 -
+- EX07 -
+- EX08 -
+- EX09 -
+- EX10 -
