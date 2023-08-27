@@ -1,4 +1,4 @@
-<img width="1366" alt="Screen Shot 2021-10-21 at 4 27 06 PM" src="https://user-images.githubusercontent.com/58959408/138220150-06967f56-96c1-4b4e-b885-5bba963fa2bd.png">
+![Screenshot from 2023-08-24 17-15-34](https://github.com/hasanocal42/Ecole42-Piscine2023/assets/140838926/a8b3f057-c02b-4f66-9249-f4a041cf8252)
 
 # C06
 
@@ -14,6 +14,8 @@ This Project Looks into Parameters and Taking Information from Programs.
 - Temporary Variables
 
 ## Projects
-- EX00 - Print the Name of a Program
-- EX01 - Print Parameters of a Program
-- EX02 - Print Parameters of a Program in Reverse
+- EX00 -
+- EX01 -
+- EX02 -
+- EX03 -
+- EX04 -
