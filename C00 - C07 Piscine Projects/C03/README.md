@@ -1,4 +1,4 @@
-<img width="1366" alt="Screen Shot 2021-10-21 at 4 26 23 PM" src="https://user-images.githubusercontent.com/58959408/138220061-bea86980-2b30-4268-8f05-0f35c358f6c1.png">
+![Screenshot from 2023-08-24 17-14-51](https://github.com/hasanocal42/Ecole42-Piscine2023/assets/140838926/ecd50483-f88c-45af-85e7-858378fcf8d9)
 
 # C03
 
@@ -14,7 +14,9 @@ This Introduces You to Scanning Strings to Find Values, or to Combine Two String
 - Using Size_T
 
 ## Projects
-- EX00 - Compare Two Strings, Returning a Value
-- EX01 - Compare Two Strings, Returning a Value, Using Unsigned Ints
-- EX02 - Concatanate Two Strings
-- EX03 - Concatanate Two Strings, Using Unsigned Ints
+- EX00 -
+- EX01 -
+- EX02 -
+- EX03 -
+- EX04 -
+- EX05 -
