@@ -1,4 +1,4 @@
-<img width="1366" alt="Screen Shot 2021-10-21 at 4 26 37 PM" src="https://user-images.githubusercontent.com/58959408/138220101-a628c136-3185-44d6-a2cb-f5b964270e56.png">
+![Screenshot from 2023-08-24 17-15-07](https://github.com/hasanocal42/Ecole42-Piscine2023/assets/140838926/0f0951d4-1a1d-4c13-a1e3-e28661ce604c)
 
 # C04
 
@@ -10,6 +10,9 @@ This Continues With Strings by Introducing Maths to Them.
 - Generating strings
 
 ## Projects
-- EX00 - Get the Length of a String
-- EX01 - Print a String
-- EX02 - Print Any Number Within The Max / Min Int
+- EX00 -
+- EX01 -
+- EX02 -
+- EX03 -
+- EX04 -
+- EX05 -
